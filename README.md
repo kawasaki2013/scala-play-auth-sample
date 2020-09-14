@@ -1,7 +1,7 @@
 # ユーザー認証サンプルプロジェクト
 - 「Scalaの文法・標準ライブラリは勉強したけど、どう活かせばいいかわからない。。」という方向けに作成したサンプルプロジェクトです。
 - 質問は[TwitterのDM](https://twitter.com/nepp_yaga)まで
-
+-資料　https://www.slideshare.net/ssuserc261db/optioneither
 # アプリ立ち上げ
 
 ## DB立ち上げ
